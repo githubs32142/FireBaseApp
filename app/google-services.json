@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "949578398257",
+    "firebase_url": "https://note-firebase-db39a.firebaseio.com",
+    "project_id": "note-firebase-db39a",
+    "storage_bucket": "note-firebase-db39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949578398257:android:5ee9848996228740",
+        "android_client_info": {
+          "package_name": "edu.pwste.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949578398257-ubhu7mqkomirii3tiqq0uhgu3on1bnok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY6MVKR7fGrrJJrLj2Tq3s5dLUPYdpSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
